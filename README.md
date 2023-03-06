@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to stjohnston ('St Johnston') Official GitHub.
+
+This GitHub profile aims to contain the public repositories for 'St Johnston'
+
 <!--
 **stjohnston/stjohnston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
